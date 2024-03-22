@@ -1,0 +1,17 @@
+**THE ABACHA PROJECT**
+
+Use the following guidelines while working on the project:
+
+* Prmary color: #f05334
+
+* Font Family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+* Use the line height property with a value of 4rem to space out the text content 
+
+* The navbar must be fixed at the top of the page while every other content goes under it when you scroll
+
+* Watch the video 'How to Embed a Youtube Video' found in the assets folder to learn how to insert a Youtube video in your web project.
+
+* Use the link below to insert the YouTube video found on the 'How to Prepare' section:
+ 
+<iframe id="video" width="1000" height="630" src="https://www.youtube.com/embed/0bojPYzHvY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
