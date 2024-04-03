@@ -1,0 +1,94 @@
+/* CSS Reset */
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* Header */
+header {
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    width: 100%;
+    background-color: #a61212;
+    padding: 10px;
+}
+.header_container {
+    position: relative;
+    margin: 0 10%;
+}
+.main_logo {
+    display: inline-block;
+}
+.main_logo img {
+    max-width: 30px;
+}
+
+.main_links {
+    display: inline-block;
+    text-align: right;
+    position: absolute;
+    right: 0;
+    
+}
+.main_links a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+ .main_section {
+    font-size: 25px;
+    text-align: justify;
+    margin-right: 140px;
+}
+ .container {
+    margin-left: 100px;
+}
+ .container h1 {
+    color: #a61212; 
+    margin-top: 20px;
+    text-align: center;
+}
+ .container p {
+    line-height: 50px;
+}
+
+ .container img {
+    padding-bottom: 10px;
+    background-color: #a61212;
+}
+
+ .preparation h1 {
+    color: #a61212;
+    text-align: left;
+}
+.other_section {
+    background-color: #a61212;
+    padding: 300px;
+}
+.other_section h1 {
+    color: white;
+}
+.request_container {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.footer {
+    padding: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+
+}
+.icon_footer {
+    width: 2%;
+}
+
+button {
+    background-color: #a61212;
+    color: white;
+    font-size: 30px;
+}
