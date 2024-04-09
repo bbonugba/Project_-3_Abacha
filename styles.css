@@ -36,6 +36,8 @@ header {
     text-decoration: none;
     margin: 10px;
 }
+
+/* Main Section with Img & Descr. */
  .main_section {
     font-size: 25px;
     text-align: justify;
@@ -75,21 +77,27 @@ header {
     text-align: center;
     margin-top: 40px;
     font-size: 30px;
+    margin-bottom: 25px;
 }
 .request_container input{
     font-size: 25px;
     border-bottom: #a61212 solid;
-    border-radius: 25px;
+    /* border-radius: 25px; */
     border-top: none;
     border-left: 0;
     border-right: 0;
     text-align: center;
+    width: 20%;
 }
 
 button {
     background-color: #a61212;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
+    padding: 8px;
+    border: none;
+    box-shadow: 2px 2px grey;
+
 }
 .footer {
     padding: 15px;
@@ -97,7 +105,9 @@ button {
     background-color: black;
     color: white;
     margin-top: 10px;
-    font-size: 10px
-    
+    font-size: 10px;
 
+}
+.footer a {
+    color: white;
 }
